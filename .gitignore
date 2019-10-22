@@ -1,0 +1,3 @@
+*.ipynb_checkpoints*
+*.DS_Store
+gans/pytorch-dcgan-test/data/*
